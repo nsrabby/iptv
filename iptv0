@@ -296,7 +296,7 @@ https://timesnow.airtel.tv/live/MNX_pull/master.m3u8?@IPTVSoltuion
 http://45.249.187.238:8081/hls/tsl-8.m3u8?@IPTVSolution
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/t7EdQXU.png" group-title="ENGLISH MOVIES",Star Movies
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/43.ts?@IPTVSoltuion
+http://iptv.kitv.live:1935/live/Shari/MTV-P/43.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/X6jZnUy.png" group-title="ENGLISH MOVIES",Star Movies Select HD
 
@@ -459,14 +459,14 @@ http://iptv.kitv.live:1935/live/Shari/MTV-P/73.m3u8?@IPTVSoltuion
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EG2QRMG.png" group-title="Kids",DURONTO TV
 http://45.249.187.238:8081/hls/new3.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/clCz1zv.jpg" group-title="Kids",Disney 
-http://45.249.187.238:8081/hls/live0.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/clCz1zv.jpg" group-title="Kids",Disney
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Sw1rCgm.png" group-title="Kids",Disney XD
 http://iptv.kitv.live:1935/live/Shari/MTV-P/65.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/CPdrEIm.png" group-title="Kids",Cartoon Network HD
-
+http://live-ng-01.more.tv/hls/Cartoon_Network_HD/master.m3u8
 
 
 
