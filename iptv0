@@ -84,6 +84,8 @@ http://iptv.kitv.live:1935/live/Shari/MTV-P/5.m3u8?@IPTVSoltuion
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="BANGLA",GAZI TV FHD
 http://iptv.kitv.live:1935/live/Shari/MTV-P/6.m3u8?@IPTVSoltuion
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="BANGLA",GAZI TV HD 2
+http://103.205.133.44:1935/live/Gtv/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imaged089f3331cb4f590.png" group-title="BANGLA",Nagorik TV FHD
 http://iptv.kitv.live:1935/live/Shari/MTV-P/3.m3u8?@IPTVSoltuion
