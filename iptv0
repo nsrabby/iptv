@@ -114,6 +114,9 @@ http://103.102.136.106:8080/cmcltv/tcm_starjalshacm.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/D6jGMpw.jpg" group-title="BANGLA ENT.",Star Jalsha 6
 http://103.205.133.50/hls/chsj.m3u8
 
+#EXTINF:-1, Star jalsha 7
+http://103.211.185.98:8082/30/index.m3u8?token=4378107d46ee8aac7ec91d61c8f29d6c1bb9b755-ba2d812ff5b4059a216132eb34219776-1601054737-1601043937&remote=182.48.82.62
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GOamt6U.jpg" group-title="BANGLA ENT.",Zee Bangla FHD
 
