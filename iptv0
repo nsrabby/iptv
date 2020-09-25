@@ -112,7 +112,7 @@ https://yuppcatchup.akamaized.net/preview/starjalsha/1800.m3u8
 http://103.102.136.106:8080/cmcltv/tcm_starjalshacm.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/D6jGMpw.jpg" group-title="BANGLA ENT.",Star Jalsha HD 6
-http://live.banglatv.xyz:8880/bdixtv/fbgroup/26
+http://103.211.185.98:8082/30/index.m3u8?token=78af6889c9daebc718eb377152d1a163e6d10d17-d698dc77a69406085731e8f0ce3c4d7e-1601008818-1600998018&remote=182.48.82.62
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GOamt6U.jpg" group-title="BANGLA ENT.",Zee Bangla FHD
