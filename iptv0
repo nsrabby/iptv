@@ -7,6 +7,9 @@ http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/1.m3u8
 http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/12.m3u8
 
 
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg",Star Jalsha
+http://103.107.160.20:8081/amrbd/starjalsha/playlist.m3u8
+
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg",Star Jalsha SD
 http://163.172.29.246:8081/globalbd/starjalsha/chunks.m3u8?token=soheliptv01826655778
 
@@ -37,8 +40,13 @@ http://otv.ftpbd.net/streams/115/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jbNSmlL.png",COLORS HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jbNSmlL.png",COLORS
+http://103.107.160.20:8081/amrbd/colorshd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jbNSmlL.png",COLORS 2
 http://dx3.gcdn.co/hindi-COLORSHD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jbNSmlL.png",COLORS Bangla
+http://103.107.160.20:8081/amrbd/news24/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DsVRIof.jpg",Star Plus HD
 http://dx3.gcdn.co/hindi-STARPLUSindia/index.m3u8
