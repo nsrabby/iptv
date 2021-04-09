@@ -91,6 +91,9 @@ http://103.205.133.19/hls/chsj.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="Star Jalsha HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b5/Star_Jalsha_HD_2019.png/revision/latest?cb=20190224050958",STAR JALSHA
 http://10.16.100.203:8082/bangla/starjalsha_1stop_bd.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/85/Colors_Bangla_Logo.jpg" group-title="New",COLORS BANGLA
+https://yuppcatchup.akamaized.net/preview/etvbengali/2500.m3u8
+
 #EXTINF:-1,tvg-id="" tvg-name="Colors Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Colors_Bangla_Logo.jpg/120px-Colors_Bangla_Logo.jpg",Colors Bangla
 http://10.16.100.205/hls/colorsbd480.m3u8
 
@@ -113,6 +116,9 @@ http://10.16.100.201/hindi/colors_1stop_in.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png" group-title="English",Sony Pix HD
 http://10.16.100.204:8082/hls/sony_pixhd_bd_720.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Bflix_Movies.png" group-title="New",BFlix Movies 2
+https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
 
 
 
