@@ -33,6 +33,11 @@ http://103.205.133.19/hls/deeptotv.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="Deepto TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/31/Deepto_TV_logo.png/240px-Deepto_TV_logo.png",Deepto TV
 http://10.16.100.203:8082/bangla/deeptotv.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="Deepto TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/31/Deepto_TV_logo.png/240px-Deepto_TV_logo.png" group-title="Bangla",Deepto TV
+http://ponnoshare.ddns.net:25461/live/rabby123/rabby123/205.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Deepto HD" tvg-logo="https://i.imgur.com/ty5Y8Lt.png" group-title="Bangla",Deepto HD
+http://ponnoshare.ddns.net:25461/live/rabby123/rabby123/689.m3u8
+
 #EXTINF:-1,tvg-id="" tvg-name="Asian Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Asian_TV_Logo.svg/1200px-Asian_TV_Logo.svg.png"group-title="NEW",Asian TV 2
 http://103.205.133.19/hls/asiantv.m3u8
 
